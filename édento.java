@@ -81,7 +81,7 @@ public class édento {
         lista.imprimir();
 
         lista.remover(100);
-        System.out.print("Depois de remover 100: "); // Aviso
+        System.out.print("Depois de remover 100: ");
         lista.imprimir();
 
         System.out.println("Procurar 150: " + lista.buscar(150));
